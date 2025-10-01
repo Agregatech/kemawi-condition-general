@@ -1,5 +1,5 @@
 ![logo kemawi](https://github.com/user-attachments/assets/e54b77cc-1a4f-4bd3-8586-ee66afdee09f)
-![Uploading logo kemawi.svg…](<svg width="93" height="74" viewBox="0 0 93 74" fill="none" xmlns="http://www.w3.org/2000/svg">
+(<svg width="93" height="74" viewBox="0 0 93 74" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_38_23242)">
 <path d="M39.541 14.1459C40.3086 14.1459 40.9309 13.5236 40.9309 12.7559V10.0575C40.9309 6.57392 43.7689 3.73589 47.2641 3.73589C50.7593 3.73589 53.5973 6.57392 53.5973 10.0575V12.7559C53.5973 13.5236 54.2196 14.1459 54.9873 14.1459C55.7549 14.1459 56.3772 13.5236 56.3772 12.7559V10.4355C56.3772 5.57363 52.725 1.29333 47.8631 0.973467C42.5767 0.630345 38.1452 4.83504 38.1452 10.0575V12.7559C38.151 13.5236 38.7733 14.1459 39.541 14.1459Z" fill="#F5BB3A"/>
 <mask id="mask0_38_23242" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="27" y="16" width="43" height="41">
